@@ -1,0 +1,6 @@
+env\Scripts\activate
+
+python manage.py inspectdb > quickstart/models.py (create models)
+
+source venv/bin/activate (Mac)
+
