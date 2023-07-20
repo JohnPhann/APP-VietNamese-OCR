@@ -11,5 +11,6 @@ Vietnamese OCR can extract information fields on images and help them to store t
 <img width="1231" alt="2" src="https://github.com/JohnPhann/APP-VietNamese-OCR/assets/41039240/8ce25ff5-03f5-45cd-9f3b-6bf5d3f3128f">
 3. LOADING
 <img width="1246" alt="3" src="https://github.com/JohnPhann/APP-VietNamese-OCR/assets/41039240/0997b0d1-1f96-44e7-8b7a-28aeb4bf1884">
-
+4. SHOW TEXTS RECONIZED
+<img width="1246" alt="3" src="https://github.com/JohnPhann/APP-VietNamese-OCR/blob/main/frondend/ocr/public/4.png">
 
