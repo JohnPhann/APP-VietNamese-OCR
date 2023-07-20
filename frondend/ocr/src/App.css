@@ -1,0 +1,126 @@
+
+.App {
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.frame{
+  width: 100%;
+  background: linear-gradient(to bottom, #1c233a, #264a98);
+  height: 100vh;
+  padding-top: 2%;
+  
+}
+.box{
+  background: rgba(255, 255, 255, 0);
+  width: 95%;
+  height: 90vh;
+  margin: 0 auto;
+
+  
+}
+.left-box{
+  width: 40%;
+  height: 92vh;
+  background: rgb(86, 112, 197);
+  float: left;
+
+}
+.right-box{
+  width: 60%;
+  height:92vh;
+  background: rgb(86, 112, 197);
+  float: left;
+}
+.content{
+  width:100%;
+  height:80vh;
+  max-height:80vh;
+  overflow-y: auto;
+  background: #ffffff;
+  text-align: center;
+}
+
+.content-ocr{
+  text-align: center;
+  width:100%;
+  height:5vh;
+  /* background: rgb(229, 202, 147); */
+}
+
+.up-load-file{
+  width: 100%;
+  height:40vh;
+  /* background: #f78a8a; */
+}
+.alert-notifications{
+  text-align: center;
+}
+
+
+.up-load-file{
+  margin-top: 8%;
+}
+
+/* Paragraph style */
+/* Paragraph style */
+p {
+  font-size: 13px; /* Sets the font size to 18 pixels */
+  font-weight: 400; /* Sets the font weight to semi-bold */
+  line-height: 1.5; /* Sets the line height to 1.5 times the font size */
+  /* margin-bottom: 30px; Adds a margin of 30 pixels at the bottom */
+  color: #222; /* Sets the text color to a dark gray */
+  text-align: justify; /* Justifies the text */
+  text-indent: 30px; /* Adds a 30-pixel indentation to the first line */
+  border-left: 5px solid #f1c40f; /* Adds a left border with a yellow color */
+  padding-left: 1px; /* Adds a 15-pixel padding to the left of the border */
+  background-color: rgb(255, 255, 255); /* Sets the background color to white */
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle box shadow */
+  transition: all 0.3s ease-in-out; /* Adds a smooth transition effect */
+  word-wrap: break-word;
+}
+
+/* Hover effect */
+p:hover {
+  transform: translateY(-5px); /* Moves the paragraph up by 5 pixels */
+  box-shadow: 0px 10px 20px
+ 
+}
+img {
+  width: 90%;
+  height: 90%;
+}
