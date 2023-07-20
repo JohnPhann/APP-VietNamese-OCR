@@ -14,6 +14,6 @@ Vietnamese OCR can extract information fields on images and help them to store t
 4. SHOW TEXTS RECONIZED
 <img width="1246" alt="3" src="https://github.com/JohnPhann/APP-VietNamese-OCR/blob/main/frondend/ocr/public/4.png">
 5. COPY ALL TEXTS TO PASTE FILE WORD
-<img width="1246" alt="3" src="https://github.com/JohnPhann/APP-VietNamese-OCR/blob/main/frondend/ocr/public/5a.png">
+<img width="1246" alt="3" src="https://github.com/JohnPhann/APP-VietNamese-OCR/blob/main/frondend/ocr/public/5.png">
 <img width="1246" alt="3" src="https://github.com/JohnPhann/APP-VietNamese-OCR/blob/main/frondend/ocr/public/6.png">
 
