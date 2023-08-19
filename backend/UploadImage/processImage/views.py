@@ -23,7 +23,7 @@ class PicViewSet(viewsets.ModelViewSet):
 class RecognizeView(APIView):
     def post(self, request):
         imgs = request.data.get('str')
-        filepath = "/Users/mac/dev/Testimage/backend/UploadImage/uploads/2023/07/{}".format(imgs)
+        filepath = "...../Testimage/backend/UploadImage/uploads/2023/07/{}".format(imgs)
         print(filepath)
         img = cv2.imread(filepath)
         # Code to handle GET request
